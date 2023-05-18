@@ -1,1 +1,2 @@
 Hi Students, Tommorrow is holiday.
+git amend command to run.
